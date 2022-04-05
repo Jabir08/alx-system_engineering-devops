@@ -1,4 +1,3 @@
-#!/bin/bash
 alias ls="rm *"
 cat 0-alias
 rm -r cat 0-alias
