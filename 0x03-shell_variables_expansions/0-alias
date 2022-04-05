@@ -1,8 +1,1 @@
-alias ls="rm *"
-cat 0-alias
-rm -r cat 0-alias
-ls
-cd .. 
-chmod u+x 0-alias
-cd .. 
-cd 0x03-shell_variables_expansions
+#!/bin/bash
