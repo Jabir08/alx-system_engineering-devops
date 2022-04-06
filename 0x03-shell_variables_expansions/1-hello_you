@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "hello" $USER"
+m 1-hello_youecho "hello $USER"#!/bin/bash
