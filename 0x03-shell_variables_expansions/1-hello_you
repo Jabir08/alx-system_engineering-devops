@@ -1,3 +1,2 @@
 #!/bin/bash
 echo "hello $USER"
->>>>>>> 558db96c23343c67e9dc0e3fa487942918fae85c
